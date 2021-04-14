@@ -52,7 +52,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-image: url("/Imagenes/fondo.jpg");
+    background-image: url("./Imagenes/fondo.jpg");
 }
 
 .carousel-container {
